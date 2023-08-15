@@ -1,0 +1,37 @@
+body{
+    background-color: #000000;
+}
+
+h1{
+    color: #ffffff;
+}
+
+div{
+    text-align: center;
+}
+
+button{
+    height: 2.2em;
+    width: 5.5em;
+    border: none;
+    color: #ffffff;
+    border-radius: 40%;   
+}
+
+button:hover{
+    cursor: pointer;
+    column-rule-style: groove;
+    column-rule-color: deeppink;
+}
+
+.start-btn{
+    background-color: #7fffd4;
+}
+
+.pause-btn{
+    background-color: #808080;
+}
+
+.stop-btn{
+    background-color: #ff0000;
+}
